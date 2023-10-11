@@ -1,4 +1,5 @@
 # 코드테스트 연습
+![image](https://github.com/desafin/code_test/assets/131871057/723160e5-6339-4821-ae89-44a994557608)
 
 [프로그래머스 코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
 
