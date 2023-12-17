@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94c29ee5-dd26-4b28-8398-55bf9bd4d53a" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/탐색/연결요소의 개수구하기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/탐색/연결요소의 개수구하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/탐색/연결요소의 개수구하기.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,6 +113,11 @@
           <url>file://$PROJECT_DIR$/1003/타겟넘버.py</url>
           <line>1</line>
           <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/탐색/연결요소의 개수 구하기 예제.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="50" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
